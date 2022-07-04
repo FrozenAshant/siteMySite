@@ -209,5 +209,8 @@ nav ul li a:hover{
     .inputBox {
         width: 80%;
     }
+    .title-login::before {
+        left: 36%;
+    }
 }
 
