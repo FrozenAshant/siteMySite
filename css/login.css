@@ -25,9 +25,10 @@ section .imgBx:before{
     left: 0;
     height: 100%;
     width: 100%;
-    background: linear-gradient(255deg,#e91e63,#03a9f4);
+    background: #554b4b;
     z-index: 1;
     mix-blend-mode: screen;
+    border-radius: 10px;
 }
 section .imgBx img{
     position: absolute;

@@ -92,7 +92,7 @@ nav ul li a:hover{
 }
 
 .popup-content{
-    height: 640px;
+    height: 400px;
     width: 500px;
     background: #fff;
     padding: 20px;
@@ -135,7 +135,7 @@ nav ul li a:hover{
     left: 42%;
     /* color: green; */
     bottom: 0;
-    background: linear-gradient(135deg, #71b7e6, #9b59b6)
+    background: #554b4b;
 }
 
 /* input{
