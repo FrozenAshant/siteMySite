@@ -118,7 +118,7 @@ nav ul li a:hover{
     letter-spacing: 1px;
 }
 .login-button:hover{
-    background: #e91e63;
+    background: #ff4548;
     color: #fff;
 }
 
@@ -135,7 +135,7 @@ nav ul li a:hover{
     left: 42%;
     /* color: green; */
     bottom: 0;
-    background: linear-gradient(135deg, #71b7e6, #9b59b6)
+    background: #554b4b;
 }
 
 /* input{
@@ -188,6 +188,10 @@ nav ul li a:hover{
     font-size: 16px;
     color: #000;
 }
+.forgot-password:hover{
+    text-decoration: underline;
+    transition: all 0.5 ease;
+}
 
 .signup{
     font-size: 16px;
@@ -195,7 +199,7 @@ nav ul li a:hover{
 .signup-link{
     text-decoration: none;
     cursor: pointer;
-    color:#000;
+    color:#ff4548;
 }
 .number::-webkit-outer-spin-button,
 .number::-webkit-inner-spin-button{
@@ -204,13 +208,10 @@ nav ul li a:hover{
 
 @media (max-width: 768px){
     .popup-content {
-        width: 310px;
+        width: 320px;
     }
     .inputBox {
         width: 80%;
-    }
-    .title-login::before {
-        left: 36%;
     }
 }
 
