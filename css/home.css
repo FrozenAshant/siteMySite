@@ -155,6 +155,11 @@
 }
 
 @media (max-width:768px){
+    .all__cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
     .row-banner{
         height: 150px;
     }
