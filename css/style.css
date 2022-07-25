@@ -24,7 +24,7 @@ a{
 }
 
 .navbar{
-    min-height: 10vh;
+    min-height: 65px;
     display: flex;
     justify-content: space-between;
     align-items: center;
